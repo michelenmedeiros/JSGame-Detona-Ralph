@@ -10,6 +10,10 @@ Bem-vindo ao JSGame Detona Ralph! Neste repositório, você encontrará um jogo 
 
 **🎮 Como Jogar:**
 
+Pode acessar diretamente pelo link do [GitHub Pages](https://michelenmedeiros.github.io/JSGame-Detona-Ralph)
+
+OU
+
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo index.html em seu navegador web.
 3. Utilize o mouse para clicar.
