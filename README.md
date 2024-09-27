@@ -14,7 +14,10 @@ Bem-vindo ao JSGame Detona Ralph! Neste repositório, você encontrará um jogo 
 2. Abra o arquivo index.html em seu navegador web.
 3. Utilize o mouse para clicar.
 4. Divirta-se tentando clicar no Ralph, antes do tempo acabar.
+ 
+![image](https://github.com/user-attachments/assets/eccd8db8-1693-417e-80ad-df7f424c6074)
 
 **⭐ Contribuição:**
 
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
+
